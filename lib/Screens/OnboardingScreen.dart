@@ -19,7 +19,7 @@ class _OnboardingPageState extends State<OnboardingPage> {
   }
 
   void initialize() async {
-    await Future.delayed(Duration(seconds: 5));
+    await Future.delayed(Duration(seconds: 10));
     FlutterNativeSplash.remove();
   }
 

@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Color(0xFF2E6CFF),
       ),
       home: OnboardingPage(),
-      routes: {'/chatsPage': (context) => ChatScreen()},
+      routes: {'/chatsPage': (context) => ChatPage()},
     );
   }
 }
