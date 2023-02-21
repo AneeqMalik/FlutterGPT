@@ -13,6 +13,13 @@ To use this app, follow these steps:
 The app should launch on your emulator or connected device.
 Once the app is running, users can start chatting with ChatGPT by typing in the input box and hitting send. ChatGPT will respond with a message based on its training data.
 
+# ScreenShoots of App
+![image](https://user-images.githubusercontent.com/75877245/220372016-853727dc-f892-431c-a997-6eb16e0709e6.png)
+![image](https://user-images.githubusercontent.com/75877245/220372075-e2984eba-04c3-46b8-b4a0-005202da29c0.png)
+![image](https://user-images.githubusercontent.com/75877245/220372194-6ff909b7-f738-4370-9bbd-90d72013ffa4.png)
+![image](https://user-images.githubusercontent.com/75877245/220372232-6438654c-1ec1-4671-af9a-5fac6b5fe1a3.png)
+
+
 #Contributing
 If you would like to contribute to this project, please follow these steps:
 
