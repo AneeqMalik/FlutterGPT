@@ -69,7 +69,9 @@ class _OnboardingPageState extends State<OnboardingPage> {
                   ),
                   backgroundColor: const Color(0xFF2E6CFF),
                   fixedSize: Size(300, 50)),
-              onPressed: () {},
+              onPressed: () {
+                Navigator.pushNamed(context, '/chatsPage');
+              },
               child: Row(children: [
                 Container(
                   margin: EdgeInsets.only(left: 105),

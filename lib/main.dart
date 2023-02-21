@@ -29,10 +29,9 @@ class MyApp extends StatelessWidget {
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
         primaryColor: Color(0xFF2E6CFF),
-        
       ),
       home: OnboardingPage(),
+      routes: {'/chatsPage': (context) => ChatScreen()},
     );
   }
 }
-
